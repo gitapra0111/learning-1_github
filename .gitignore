@@ -1,0 +1,9 @@
+# Mengabaikan file konfigurasi rahasia
+.env
+
+# Mengabaikan folder dependency
+node_modules/
+vendor/
+
+# Mengabaikan file log
+*.log
